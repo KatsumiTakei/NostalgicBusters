@@ -1,0 +1,7 @@
+#Keys
+Shot : 1
+Slow : 16
+Bomb : 32
+Cansel : 4
+Pause : 2
+Decide : 1

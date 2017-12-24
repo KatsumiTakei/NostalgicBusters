@@ -1,0 +1,9 @@
+	--------	Debug Info	--------
+convert mesh to trianulate  /  c:\users\s152133\desktop\r1\source\fbx\fbxparser.cpp  /  118çs
+convert mesh to trianulate  /  c:\users\s152133\desktop\r1\source\fbx\fbxparser.cpp  /  118çs
+convert mesh to trianulate  /  c:\users\s152133\desktop\r1\source\fbx\fbxparser.cpp  /  118çs
+
+	--------	Debug Warning	--------
+
+	--------	Debug Error	--------
+
